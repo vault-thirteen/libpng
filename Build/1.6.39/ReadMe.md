@@ -11,7 +11,7 @@ Day: 2023-04-02.
 ### Build Notes
 
 * zlib library: version 1.2.13.
-* To build LibPNG with an external zlib library one should do the following:
+* To build libpng with an external zlib library one should do the following:
 	* Open CMake GUI
     * Set the source & build folders
     * Press "Add Entry" and add an entry:
