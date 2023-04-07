@@ -1,0 +1,12 @@
+EA7BBA7D libpng16.dll
+6D098B6D libpng16.exp
+40EF2F22 libpng16.lib
+80A16BB0 libpng16_static.lib
+16231B84 png-fix-itxt.exe
+78250621 pngfix.exe
+8E3B41F5 pngimage.exe
+20950FB4 pngstest.exe
+EC0C2EE5 pngtest.exe
+11A94BEA pngunknown.exe
+E5BBDFA4 pngvalid.exe
+92FB6D84 zlib.dll
