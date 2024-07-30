@@ -1,0 +1,12 @@
+202240 libpng16.dll
+33486 libpng16.exp
+55894 libpng16.lib
+654514 libpng16_static.lib
+12288 png-fix-itxt.exe
+52736 pngfix.exe
+25088 pngimage.exe
+43520 pngstest.exe
+27136 pngtest.exe
+22528 pngunknown.exe
+131072 pngvalid.exe
+85504 zlib.dll
