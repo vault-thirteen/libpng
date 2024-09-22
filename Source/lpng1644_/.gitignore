@@ -68,10 +68,10 @@ png-fix-itxt
 pngcp
 pngfix
 pngimage
-#pngstest
-#pngtest
-#pngunknown
-#pngvalid
+pngstest
+pngtest
+pngunknown
+pngvalid
 timepng
 pngout.png
 
