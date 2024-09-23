@@ -1,27 +1,27 @@
 This build was made using:
 
-* Microsoft Windows 10 Pro 22H2 Build 19045.4651.
-* CMake 3.29.7.
-* Microsoft Visual Studio Community 2022 (64-bit) Version 17.10.5.
+* Microsoft Windows 10 Pro 22H2 Build 19045.4894.
+* CMake 3.30.3.
+* Microsoft Visual Studio Community 2022 (64-bit) Version 17.11.4.
 
 Source codes: https://sourceforge.net/projects/libpng/  
 Performer: McArcher.  
-Day: 2024-07-30.  
+Day: 2024-09-23.  
 
 ### Build Notes
 
-* zlib library: version 1.3.1.
-* To build libpng with an external zlib library one should do the following:
+* `zlib` library: version 1.3.1.
+* To build `libpng` with an external `zlib` library one should do the following:
 	* Open CMake GUI
     * Set the source & build folders
     * Press "Add Entry" and add an entry:
       * Name: ZLIB_INCLUDE_DIR
       * Type: String
-      * Value: Path to zlib "include" folder
+      * Value: Path to zlib `include` folder
     * Press "Add Entry" and add an entry:
       * Name: ZLIB_LIBRARY
       * Type: String
-      * Value: Path to "zlib.lib" file
+      * Value: Path to `zlib.lib` file
     * Press "Configure"
     * Press "Generate"
     * Open the created solution in Visual Studio
@@ -36,6 +36,10 @@ Integrity can be verified using following parameters:
 
 * CRC32 check sums
     * See the `crc32_sums.txt` file, [Link](./crc32_sums.txt).
+
+
+* MD5 check sums
+    * See the `md5_sums.txt` file, [Link](./md5_sums.txt).
 
 
 * SHA-256 check sums
