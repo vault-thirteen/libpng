@@ -1,12 +1,12 @@
 This build was made using:
 
-* Microsoft Windows 10 Pro 22H2 Build 19045.5487.
-* CMake 3.31.6.
-* Microsoft Visual Studio Community 2022 (64-bit) Version 17.13.5.
+* Microsoft Windows 10 Pro 22H2 Build 19045.6456.
+* CMake 4.1.2.
+* Microsoft Visual Studio Community 2022 (64-bit) Version 17.14.18.
 
 Source codes: https://sourceforge.net/projects/libpng/  
 Performer: McArcher.  
-Day: 2025-04-07.  
+Day: 2025-10-26.  
 
 ### Build Notes
 
