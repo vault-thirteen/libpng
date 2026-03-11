@@ -1,16 +1,16 @@
 This build was made using:
 
-* Microsoft Windows 10 Pro 22H2 Build 19045.6691.
-* CMake 4.2.1.
-* Microsoft Visual Studio Community 2022 (64-bit) Version 17.14.23.
+* Microsoft Windows 10 Pro 22H2 Build 19045.7058.
+* CMake 4.2.3.
+* Microsoft Visual Studio Community 2022 (64-bit) Version 17.14.28.
 
 Source codes: https://sourceforge.net/projects/libpng/  
 Performer: McArcher.  
-Day: 2025-12-29.
+Day: 2026-03-11.
 
 ### Build Notes
 
-* `zlib` library: version 1.3.1.
+* `zlib` library: version 1.3.2.
 * To build `libpng` with an external `zlib` library one should do the following:
     * Open CMake GUI
     * Set the source & build folders
@@ -21,7 +21,7 @@ Day: 2025-12-29.
     * Press "Add Entry" and add an entry:
         * Name: ZLIB_LIBRARY
         * Type: String
-        * Value: Path to `zlib.lib` file
+        * Value: Path to `z.lib` file
     * Press "Configure"
     * Press "Generate"
     * Open the created solution in Visual Studio
